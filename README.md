@@ -1,2 +1,13 @@
-# SmartIndiaHackathon2020_SEC
-Emergencies and disasters impact population's health. Public health plays a critical role in working with health and non-health sectors responsible for preparing for and responding to emergencies. In emergencies, large numbers of people may require medical attention. Health care systems may be over-stretched, and public order may be threatened. Hence, we want software solution such that social media can be used in public health emergency response.Hence, we want software solution such that social media can be used in public health emergency response. Such tool/page/plugin should have the below capabilities. (1) Alarm message during emergencies (2) Providing precautinary steps to be taken during emergency/disasters (3) Help in finding nearby available healthcare systems (4) Providing First aid/primary steps to be taken/provided to patients, in case of emergencies/disasters.
+# Tabbed-Activity-
+Tab Layout 
+
+
+Android Default Tabbed Activity with Fragments
+
+
+![WhatsApp Image 2019-10-22 at 6 47 45 PM (1)](https://user-images.githubusercontent.com/55083861/67290104-4733ef80-f4fd-11e9-9d6f-b69694cf67d1.jpeg)
+![WhatsApp Image 2019-10-22 at 6 47 45 PM (2)](https://user-images.githubusercontent.com/55083861/67290106-47cc8600-f4fd-11e9-8687-a25c3e695aa1.jpeg)
+![WhatsApp Image 2019-10-22 at 6 47 45 PM (3)](https://user-images.githubusercontent.com/55083861/67290107-47cc8600-f4fd-11e9-89fb-7043bf905280.jpeg)
+![WhatsApp Image 2019-10-22 at 6 47 45 PM (4)](https://user-images.githubusercontent.com/55083861/67290109-47cc8600-f4fd-11e9-83c6-9251d0439aa2.jpeg)
+![WhatsApp Image 2019-10-22 at 6 47 45 PM](https://user-images.githubusercontent.com/55083861/67290110-48651c80-f4fd-11e9-9041-198ebdcfc491.jpeg)
+
