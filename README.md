@@ -13,4 +13,11 @@ LOGO:
 
 
 
+You will be notified by emergencies concerning floods, storms, abnormal weather conditions and the spreading of communicable diseases in your region at an early stage by our app. Our Users include Fisherman, Farmers also.
+
+Following notification, you will be provided with a sequence of precautionary steps that can be easily carried out by an individual to safeguard him/her from the critical situation.•
+ 
+ If the user state is beyond taking self-care he or she can find a nearby hospital or health center using our application quickly.
+
+In general first aid instructions given in our app comes as handy to our user to handle the disaster and emergency cases without any panic.
 
